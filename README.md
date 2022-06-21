@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server"/>
 </div>
 <div align=center>
-<h3>✨ Server Skill ✨</h3>  
+<h3>✨ Server Controll Skill ✨</h3>  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=Microsoft SQL Server"/>&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>&nbsp;&nbsp;
