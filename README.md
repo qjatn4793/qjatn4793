@@ -5,7 +5,7 @@
 <div>  
   <h3> 👋 Hi There </h3>
     🌱 I’m Beom Soo Kim, a Junior full-stack developer<br>
-    👀 I’m currently learning React JS <br>
+    👀 I’m currently learning Spring Boot <br>
     📫 How to reach me "qjatn4792@gmail.com" <br>
 </div><br>
   
