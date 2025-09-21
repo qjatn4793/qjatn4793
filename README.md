@@ -73,8 +73,6 @@
 - **HA/세션 복원**, **모바일 키보드(iOS) 최적화**, **실시간 알림**
 - 평균 응답속도 **~200ms**, 안정 동접 **5,000+**
   
-👉 [코드/데모 링크](#)
-
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/STOMP-23AAE1?style=flat-square&logo=protocols.io&logoColor=white" />
@@ -89,16 +87,12 @@
 - 모듈 컴파일/튜닝, 무중단 배포, 로그 수집/모니터링  
 - 운영 가이드 & 장애 대응 플레이북 제공
 
-👉 [문서/코드 링크](#)
-
 <details>
 <summary><b>더 보기</b></summary>
 
 ### 🔹 **Data Dashboard**
 - Spring REST + React + Chart  
 - 지표 캐싱/샤딩, 장애내성/리트라이 정책
-
-👉 [코드/데모 링크](#)
 </details>
 
 ---
