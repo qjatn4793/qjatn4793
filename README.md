@@ -1,4 +1,7 @@
 <!-- 헤더 파도 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7F7FD5,50:86A8E7,100:91EAE4&text=Beom%20Soo%20Kim&fontAlignY=36&fontSize=50&desc=Full%20Stack%20Developer&descAlignY=58" alt="header" />
+</p>
 
 <!-- 인사 & 요약 -->
 <h3 align="center">👋 Hi! I'm Beom Soo Kim</h3>
